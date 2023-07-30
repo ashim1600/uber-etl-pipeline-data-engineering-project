@@ -34,4 +34,6 @@ More info about dataset can be found here:
 ## Data Model
 <img src="https://github.com/ashim1600/uber-etl-pipeline-data-engineering-project/blob/main/uber-etl-pipeline-data-engineering-project/data_model.jpeg">
 
+## Uber Looker Dashboard Link: https://lookerstudio.google.com/s/loJOicptYBg
+
 
